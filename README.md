@@ -1,6 +1,6 @@
 # Programming and Languages Study Repository
 
-This repository is where I store my Java exercises and projects. They help me better understand the language and put into practice what I learn in college, complementing my assignments.
+This repository is dedicated to storing my exercises and projects. The purpose is to enhance my understanding of the language and apply what I learn in college, complementing my coursework and assignments.
 
 ## Repository Structure
 
