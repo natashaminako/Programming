@@ -37,4 +37,4 @@ This repository is dedicated to storing my exercises and projects. The purpose i
 
 ## Contact
 
-For any questions, please contact [contatonatashaminako@outlook.com](mailto:contatonatashaminako@outlook.com).
+For any questions, please contact [natashaminakotrabalhos@outlook.com](mailto:contatonatashaminako@outlook.com).
