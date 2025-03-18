@@ -11,7 +11,7 @@ public class Exams {
     return "Prediabetes";
 
     } else {
-	return "Diabetes";
+    return "Diabetes";
 
     }
 }
