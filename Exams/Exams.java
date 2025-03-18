@@ -14,6 +14,6 @@ public class Exams {
 	return "Diabetes";
 
     }
-	}
+}
 }
 
