@@ -1,6 +1,5 @@
 package AppTestAccountBank;
-
-	public class AccountBank {
+public class AccountBank {
 	private String accountID;
 	private String agency;
 	private String type;
